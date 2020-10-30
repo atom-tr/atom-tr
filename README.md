@@ -1,5 +1,5 @@
 # Hi there 👋
-### I'm just the man who think about kill myself everyday
+### I'm just the man who think about kill himself everyday
 <!--
 **atom-tr/atom-tr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
