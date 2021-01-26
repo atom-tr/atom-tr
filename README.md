@@ -3,6 +3,8 @@
 <!--
 **atom-tr/atom-tr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![](https://raw.githubusercontent.com/atom-tr/atom-tr/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
