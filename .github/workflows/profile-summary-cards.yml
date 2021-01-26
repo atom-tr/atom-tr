@@ -16,4 +16,4 @@ jobs:
         env:
           GITHUB_TOKEN: 3cfeb59f8872884901b177ffdbd904752e1c8d50 # ${{ secrets.GITHUB_TOKEN }}
         with:
-          USERNAME: atom-tr # ${{ github.repository_owner }}
+          USERNAME: ${{ github.repository_owner }}
