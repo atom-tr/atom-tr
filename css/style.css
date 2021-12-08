@@ -1,0 +1,47 @@
+@font-face {
+	font-family: Roboto;
+	src: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/565097/Roboto-Regular.woff2")
+			format("woff2"),
+		url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/565097/Roboto-Regular.woff")
+			format("woff"),
+		url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/565097/Roboto-Regular.ttf")
+			format("ttf");
+	font-weight: 400;
+	font-style: normal;
+}
+html,
+body{width: 100wh;
+height: 100vh;
+margin: 0;
+overflow: hidden;
+background:#202731;
+font-family: roboto}
+#reg_ai{
+	display:table;
+	font-size: 50px;
+	width:100%;
+	height: 100%;}
+h1{
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+	color: #ed6e55;
+}
+/* ================================= *
+ * AI Styling
+ ==================================== */
+ .typewriter:after {
+  border-right: 0.15em solid #7561ff;
+  animation: caret_typewriter 1s steps(1) infinite;
+  content: "";
+}
+@-webkit-keyframes{
+  50% {
+    border-color: transparent;
+  }
+}
+@keyframes caret_typewriter {
+  50% {
+    border-color: transparent;
+  }
+}
