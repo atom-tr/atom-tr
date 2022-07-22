@@ -1,5 +1,5 @@
 # Hi there 👋
-### I'm just a man who thinking about kill ** everyday
+<!-- ### I'm just a man who thinking about kill ** everyday -->
 
 [![](https://raw.githubusercontent.com/atom-tr/atom-tr/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/atom-tr)
 <!--
