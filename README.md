@@ -31,15 +31,17 @@
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-“If you want to learn to swim jump into the water. On dry land no frame of mind is ever going to help you.”
-― Bruce Lee
-
 ------
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atom-tr&color=brightgreen" alt="watching_count" />
   <a href="https://github.com/atom-tr/"><img src="https://img.shields.io/github/followers/atom-tr?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
   <a href="https://github.com/atom-tr/"><img src="https://img.shields.io/github/last-commit/atom-tr/atom-tr?style=flat-square?color=red&label=Last%20Updated%20"/></a>
+</p>
+
+<p align="center">
+<i>“If you want to learn to swim jump into the water. On dry land no frame of mind is ever going to help you.”</i>
+<br>― Bruce Lee
 </p>
 
 -----
