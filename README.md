@@ -7,10 +7,10 @@
 <table>
 <tr>
 <td width="70%">
-[![](https://raw.githubusercontent.com/atom-tr/atom-tr/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/atom-tr)
+<img src="https://raw.githubusercontent.com/atom-tr/atom-tr/master/profile-summary-card-output/github_dark/0-profile-details.svg">
 </td>
 <td>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atom-tr&layout=compact">
 </td>
 </tr>
 </table>
