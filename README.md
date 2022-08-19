@@ -11,7 +11,6 @@
 - 🏡'Lives in **Ho Chi Minh** city
 <!-- - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞 -->
 
-<br>
 
 ## GitHub Stats 📈 :
 
