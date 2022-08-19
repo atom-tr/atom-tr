@@ -4,16 +4,10 @@
 ![GitHub Snake Light](../../blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](../../blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-<table cellpadding="0" cellspacing="0" style="border:0 !important;padding: 0; margin: 0">
-<tr style="border:0">
-<td width="70%" valign="top" style="border:0 !important">
-<img src="https://raw.githubusercontent.com/atom-tr/atom-tr/master/profile-summary-card-output/github_dark/0-profile-details.svg">
-</td>
-<td valign="top" style="border:0 !important">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atom-tr&layout=compact&theme=dark">
-</td>
-</tr>
-</table>
+<div  style="display: flex; align-items: flex-start;">
+  <img align="top" src="https://raw.githubusercontent.com/atom-tr/atom-tr/master/profile-summary-card-output/github_dark/0-profile-details.svg"/>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atom-tr&layout=compact&theme=dark"/ style="width: 30%">
+</div>
 
 “If you want to learn to swim jump into the water. On dry land no frame of mind is ever going to help you.”
 ― Bruce Lee
