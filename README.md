@@ -1,8 +1,8 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">, `atom.tr` here.
 <!-- ### I'm just a man who thinking about kill ** everyday -->
 
-![GitHub Snake Light](../../blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](../../blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](../output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](../output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ## About Me :
 
@@ -33,7 +33,7 @@
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Some of the technologies I have worked with:
+### <img src="../output/Developer.gif" width="25px"> Some of the technologies I have worked with:
 
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
