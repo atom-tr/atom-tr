@@ -1,6 +1,9 @@
 # Hi there 👋
 <!-- ### I'm just a man who thinking about kill ** everyday -->
 
+![GitHub Snake Light](../../blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](../../blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 [![](https://raw.githubusercontent.com/atom-tr/atom-tr/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/atom-tr)
 <!--
 **atom-tr/atom-tr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
