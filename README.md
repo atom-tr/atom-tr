@@ -6,7 +6,7 @@
 
 
 <img src="https://komarev.com/ghpvc/?username=atom-tr&color=brightgreen" alt="watching_count" />
-[![](https://raw.githubusercontent.com/atom-tr/atom-tr/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/atom-tr)
+![](https://raw.githubusercontent.com/atom-tr/atom-tr/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/atom-tr)
 <!--
 **atom-tr/atom-tr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,3 +27,14 @@ Here are some ideas to get you started:
 
 ― Bruce Lee
 -->
+
+
+------
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=atom-tr&color=brightgreen" alt="watching_count" />
+    <a href="https://github.com/atom-tr/"><img src="https://img.shields.io/github/followers/atom-tr?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
+  <a href="https://github.com/atom-tr/"><img src="https://img.shields.io/github/last-commit/atom-tr/atom-tr?style=flat-square?color=red&label=Last%20Updated%20"/></a>
+</p>
+
+-----
