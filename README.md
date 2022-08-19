@@ -8,20 +8,8 @@
 <img src="https://komarev.com/ghpvc/?username=atom-tr&color=brightgreen" alt="watching_count" />
 ![](https://raw.githubusercontent.com/atom-tr/atom-tr/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/atom-tr)
 <!--
-**atom-tr/atom-tr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![](https://raw.githubusercontent.com/atom-tr/atom-tr/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 “If you want to learn to swim jump into the water. On dry land no frame of mind is ever going to help you.”
 
@@ -33,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atom-tr&color=brightgreen" alt="watching_count" />
-    <a href="https://github.com/atom-tr/"><img src="https://img.shields.io/github/followers/atom-tr?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
+  <a href="https://github.com/atom-tr/"><img src="https://img.shields.io/github/followers/atom-tr?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
   <a href="https://github.com/atom-tr/"><img src="https://img.shields.io/github/last-commit/atom-tr/atom-tr?style=flat-square?color=red&label=Last%20Updated%20"/></a>
 </p>
 
