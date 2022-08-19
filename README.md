@@ -11,7 +11,6 @@
 - 🏡'Lives in **Ho Chi Minh** city
 <!-- - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞 -->
 
-
 ## GitHub Stats 📈 :
 
 <div style="display: flex; align-items: flex-start; justify-content: space-around">
@@ -22,6 +21,15 @@
       <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atom-tr&layout=compact&theme=dark&border_color=252D33&bg_color=0B0F15&count_private=1" style="object-fit: contain;width: 30%">
     </a>
 </div>
+
+### Here's the languages that I am currently working on:
+
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 “If you want to learn to swim jump into the water. On dry land no frame of mind is ever going to help you.”
 ― Bruce Lee
