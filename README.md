@@ -6,7 +6,7 @@
 
 <div  style="display: flex; align-items: flex-start;">
   <img align="top" src="https://raw.githubusercontent.com/atom-tr/atom-tr/master/profile-summary-card-output/github_dark/0-profile-details.svg"/>
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atom-tr&layout=compact&theme=dark"/ style="width: 30%">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atom-tr&layout=compact&theme=dark&border_color=252D33&bg_color=0B0F15"/ style="width: 30%">
 </div>
 
 “If you want to learn to swim jump into the water. On dry land no frame of mind is ever going to help you.”
