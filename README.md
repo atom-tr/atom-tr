@@ -4,6 +4,15 @@
 ![GitHub Snake Light](../../blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](../../blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
+## About Me :
+
+- 🏢 I am currently working as a **System Administrator** at [NetNam Corporation](https://netnam.com/)
+- 🎓 Studies for Network Engineering at [Posts and Telecommunications Institute of Technology](https://ptithcm.edu.vn/)
+- 🏡'Lives in **Ho Chi Minh** city
+<!-- - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞 -->
+
+<br>
+
 <div  style="display: flex; align-items: flex-start;">
   <a href="https://github.com/atom-tr/">
   <img align="top" src="https://raw.githubusercontent.com/atom-tr/atom-tr/master/profile-summary-card-output/github_dark/0-profile-details.svg" style="object-fit: contain;width: 68%"></a>
