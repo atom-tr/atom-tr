@@ -1,4 +1,4 @@
-# Hi there 👋, atom.tr here.
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, atom.tr here.
 <!-- ### I'm just a man who thinking about kill ** everyday -->
 
 ![GitHub Snake Light](../../blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
