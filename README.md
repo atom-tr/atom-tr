@@ -4,12 +4,12 @@
 ![GitHub Snake Light](../../blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](../../blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-<table cellpadding="0" cellspacing="0" style="border: none">
-<tr>
-<td width="70%" valign="top">
+<table cellpadding="0" cellspacing="0" border="0" style="padding: 0; margin: 0">
+<tr style="border:0">
+<td width="70%" valign="top" style="border:0">
 <img src="https://raw.githubusercontent.com/atom-tr/atom-tr/master/profile-summary-card-output/github_dark/0-profile-details.svg">
 </td>
-<td valign="top">
+<td valign="top" style="border:0">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atom-tr&layout=compact">
 </td>
 </tr>
