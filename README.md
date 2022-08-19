@@ -13,6 +13,8 @@
 
 <br>
 
+## GitHub Stats 📈 :
+
 <div  style="display: flex; align-items: flex-start;">
   <a href="https://github.com/atom-tr/">
   <img align="top" src="https://raw.githubusercontent.com/atom-tr/atom-tr/master/profile-summary-card-output/github_dark/0-profile-details.svg" style="object-fit: contain;width: 68%"></a>
