@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/atom-tr/atom-tr/master/profile-summary-card-output/noctis_minimus/4-productive-time.svg)
+```
+
+    
