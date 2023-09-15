@@ -18,6 +18,9 @@
 
 ## GitHub Stats 📈 :
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div style="display: flex; align-items: flex-start; justify-content: space-around">
     <a href="https://github.com/atom-tr/">
       <img align="top" src="https://raw.githubusercontent.com/atom-tr/atom-tr/master/profile-summary-card-output/github_dark/0-profile-details.svg" style="object-fit: contain;width: 68%">
