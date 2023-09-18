@@ -51,8 +51,8 @@ VS Code                  56 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
     <a href="https://github.com/atom-tr/">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=atom-tr&layout=compact&theme=dark&border_color=252D33&bg_color=0B0F15&count_private=1" style="object-fit: contain;width: 30%" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=atom-tr&layout=compact&theme=dark&border_color=252D33&bg_color=0B0F15&count_private=1" style="object-fit: contain;width: 30%" />
-          <img align="top"  alt="profile-details"  align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atom-tr&layout=compact&theme=dark&border_color=252D33&bg_color=0B0F15&count_private=1" style="object-fit: contain;width: 30%" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=atom-tr&layout=compact&theme=transparent&border_color=252D33&bg_color=0B0F15&count_private=1" style="object-fit: contain;width: 30%" />
+          <img align="top"  alt="profile-details"  align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atom-tr&layout=compact&theme=transparent&border_color=252D33&bg_color=0B0F15&count_private=1" style="object-fit: contain;width: 30%" />
         </picture>
     </a>
 </div>
