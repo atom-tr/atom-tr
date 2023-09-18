@@ -1,8 +1,8 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">, `atom.tr` here.
 <!-- ### I'm just a man who thinking about kill ** everyday -->
 
-![GitHub Snake Light](../output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](../output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](../output/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](../output/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
@@ -20,7 +20,7 @@
 
 <div style="display: flex; align-items: flex-start; justify-content: space-around">
     <a href="https://github.com/atom-tr/">
-      <img align="top" src="../profilecards/profile-summary-card-output/github_dark/0-profile-details.svg" style="object-fit: contain;width: 68%">
+      <img align="top" src="../output/profile-summary-card-output/github_dark/0-profile-details.svg" style="object-fit: contain;width: 68%">
     </a>
     <a href="https://github.com/atom-tr/">
       <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atom-tr&layout=compact&theme=dark&border_color=252D33&bg_color=0B0F15&count_private=1" style="object-fit: contain;width: 30%">
