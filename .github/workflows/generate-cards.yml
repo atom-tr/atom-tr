@@ -1,4 +1,4 @@
-name: generate animation
+name: Generate animation & Profile cards
 
 on:
   # run automatically every 6 hours
@@ -22,7 +22,7 @@ jobs:
     
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
+      - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -31,8 +31,10 @@ jobs:
             snake/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            
       # generate summary svg image
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Generate profile cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
@@ -41,7 +43,7 @@ jobs:
           AUTO_PUSH: false
           
       # merge generated files
-      - name: merge files
+      - name: Move all output to 1 folder for public
         run: mkdir output & mv snake output && mv profile-summary-card-output output
         
       # push files to output branch
