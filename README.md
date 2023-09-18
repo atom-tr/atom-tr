@@ -20,7 +20,7 @@
 
 <div style="display: flex; align-items: flex-start; justify-content: space-around">
     <a href="https://github.com/atom-tr/">
-      <img align="top" src="https://raw.githubusercontent.com/atom-tr/atom-tr/master/profile-summary-card-output/github_dark/0-profile-details.svg" style="object-fit: contain;width: 68%">
+      <img align="top" src="../output/profile-summary-card-output/github_dark/0-profile-details.svg" style="object-fit: contain;width: 68%">
     </a>
     <a href="https://github.com/atom-tr/">
       <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atom-tr&layout=compact&theme=dark&border_color=252D33&bg_color=0B0F15&count_private=1" style="object-fit: contain;width: 30%">
@@ -47,15 +47,10 @@
 -----------
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-56%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
 💬 Programming Languages: 
 JavaScript               27 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   48.61 % 
 HTML                     23 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.73 % 
@@ -63,13 +58,8 @@ CSS                      6 mins              ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 
 🔥 Editors: 
 VS Code                  56 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
-
-💻 Operating System: 
-Windows                  56 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
-
- Last Updated on 18/09/2023 01:23:02 UTC
 <!--END_SECTION:waka-->
 
 ------
