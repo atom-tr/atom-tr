@@ -41,18 +41,18 @@ VS Code                  56 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ## GitHub Stats 📈 :
 
 <div style="display: flex; align-items: flex-start; justify-content: space-around">
-    <a href="https://github.com/atom-tr/">
+    <a href="https://github.com/atom-tr/"  style="object-fit: contain;width: 68%">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="../output/profile-summary-card-output/github_dark/0-profile-details.svg" style="object-fit: contain;width: 68%" />
           <source media="(prefers-color-scheme: light)" srcset="../output/profile-summary-card-output/github/0-profile-details.svg" style="object-fit: contain;width: 68%" />
-          <img alt="profile-details"  align="top" src="../output/profile-summary-card-output/github/0-profile-details.svg" style="object-fit: contain;width: 68%" />
+          <img alt="profile-details"  align="top" src="../output/profile-summary-card-output/github/0-profile-details.svg" />
         </picture>
     </a>
-    <a href="https://github.com/atom-tr/">
+    <a href="https://github.com/atom-tr/"  style="object-fit: contain;width: 30%" >
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=atom-tr&layout=compact&theme=dark&border_color=252D33&bg_color=0B0F15&count_private=1" style="object-fit: contain;width: 30%" />
           <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=atom-tr&layout=compact&theme=transparent&border_color=252D33&bg_color=0B0F15&count_private=1" style="object-fit: contain;width: 30%" />
-          <img align="top"  alt="profile-details"  align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atom-tr&layout=compact&theme=transparent&border_color=252D33&bg_color=0B0F15&count_private=1" style="object-fit: contain;width: 30%" />
+          <img align="top"  alt="profile-details"  align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atom-tr&layout=compact&theme=transparent&border_color=252D33&bg_color=0B0F15&count_private=1" />
         </picture>
     </a>
 </div>
