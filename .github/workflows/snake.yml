@@ -42,7 +42,7 @@ jobs:
           
       # merge generated files
       - name: merge files
-        run: mkdir output & mv snake output && mv profile-3d-contrib output
+        run: mkdir output & mv snake output && mv profile-summary-card-output output
         
       # push files to output branch
       # push the content of <build_dir> to a branch
