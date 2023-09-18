@@ -19,9 +19,9 @@ jobs:
           ### content
           SYMBOL_VERSION: 2
           SHOW_COMMIT: "True"
-          SHOW_UPDATED_DATE: "True"
           SECTION_NAME: "# Activities"
           
+          SHOW_UPDATED_DATE: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_OS: "False"
           SHOW_TIMEZONE: "False"
