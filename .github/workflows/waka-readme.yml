@@ -19,7 +19,7 @@ jobs:
           ### content
           SYMBOL_VERSION: 2
           SHOW_COMMIT: "True"
-          SECTION_NAME: "# Activities"
+          SECTION_NAME: "activities"
           
           SHOW_UPDATED_DATE: "False"
           SHOW_SHORT_INFO: "False"
