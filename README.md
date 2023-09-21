@@ -16,11 +16,15 @@
 
 ## About Me :
 
+<img src=statics/giphy.gif alt=pokemon width=150 align=right>
+
 - 🏢 I am currently working as a **System Administrator** at [NetNam Corporation](https://netnam.com/)
 - 🎓 Studies for Network Engineering at [Posts and Telecommunications Institute of Technology](https://ptithcm.edu.vn/)
 - 🤔 Exploring new technologies and developing programming insights.
 - 🏡'Lives in **Ho Chi Minh** city
 <!-- - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞 -->
+
+<br>
 
 ## GitHub Stats 📈 :
 
