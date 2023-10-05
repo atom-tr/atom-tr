@@ -18,7 +18,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           ### content
           SYMBOL_VERSION: 2
-          SHOW_COMMIT: "True"
+          SHOW_COMMIT: "False"
           SECTION_NAME: "activities"
 
           SHOW_TOTAL_CODE_TIME: "False"
