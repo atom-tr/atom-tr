@@ -16,7 +16,7 @@
 
 ## About Me :
 
-<img src=statics/darkrai.webp alt=pokemon width=150 align=right>
+<img src=https://github.com/atom-tr/atom-tr/blob/master/statics/darkrai.webp alt=pokemon width=150 align=right>
 
 - 🏢 I am currently working as a **System Administrator** at [NetNam Corporation](https://netnam.com/)
 - 🎓 Studies for Network Engineering at [Posts and Telecommunications Institute of Technology](https://ptithcm.edu.vn/)
@@ -30,9 +30,9 @@
 <div style="display: flex; align-items: flex-start; justify-content: space-around">
     <a href="https://github.com/atom-tr/">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="../output/profile-summary-card-output/github_dark/0-profile-details.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="../output/profile-summary-card-output/github/0-profile-details.svg" />
-          <img alt="profile-details"  align="top" src="../output/profile-summary-card-output/github/0-profile-details.svg" width= "68%"/>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/atom-tr/atom-tr/blob/output/profile-summary-card-output/github_dark/0-profile-details.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github.com/atom-tr/atom-tr/blob/output/profile-summary-card-output/github/0-profile-details.svg" />
+          <img alt="profile-details"  align="top" src="https://github.com/atom-tr/atom-tr/blob/output/profile-summary-card-output/github/0-profile-details.svg" width= "68%"/>
         </picture>
     </a>
     <a href="https://github.com/atom-tr/" >
