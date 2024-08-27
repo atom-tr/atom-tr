@@ -5,9 +5,9 @@
 ![GitHub Snake dark](../output/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)-->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../output/snake/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="../output/snake/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="../output/snake/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.statically.io/gh/atom-tr/atom-tr/output/snake/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.statically.io/gh/atom-tr/atom-tr/output/snake/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.statically.io/gh/atom-tr/atom-tr/output/snake/github-contribution-grid-snake.svg" />
 </picture>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## About Me :
 
-<img src=https://github.com/atom-tr/atom-tr/blob/master/statics/darkrai.webp alt=pokemon width=150 align=right>
+<img src=https://cdn.statically.io/gh/atom-tr/atom-tr/master/statics/darkrai.webp alt=pokemon width=150 align=right>
 
 - 🏢 I am currently working as a **System Administrator** at [NetNam Corporation](https://netnam.com/)
 - 🎓 Studies for Network Engineering at [Posts and Telecommunications Institute of Technology](https://ptithcm.edu.vn/)
@@ -30,9 +30,9 @@
 <div style="display: flex; align-items: flex-start; justify-content: space-around">
     <a href="https://github.com/atom-tr/">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/atom-tr/atom-tr/blob/output/profile-summary-card-output/github_dark/0-profile-details.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github.com/atom-tr/atom-tr/blob/output/profile-summary-card-output/github/0-profile-details.svg" />
-          <img alt="profile-details"  align="top" src="https://github.com/atom-tr/atom-tr/blob/output/profile-summary-card-output/github/0-profile-details.svg" width= "68%"/>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.statically.io/gh/atom-tr/atom-tr/output/profile-summary-card-output/github_dark/0-profile-details.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="https://cdn.statically.io/gh/atom-tr/atom-tr/output/profile-summary-card-output/github/0-profile-details.svg" />
+          <img alt="profile-details"  align="top" src="https://cdn.statically.io/gh/atom-tr/atom-tr/output/profile-summary-card-output/github/0-profile-details.svg" width= "68%"/>
         </picture>
     </a>
     <a href="https://github.com/atom-tr/" >
@@ -94,7 +94,7 @@ CSS                      2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:activities-->
 
-------
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atom-tr&color=brightgreen" alt="watching_count" />
@@ -107,4 +107,4 @@ CSS                      2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <br>― Bruce Lee
 </p>
 
------
+---
