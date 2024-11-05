@@ -18,7 +18,7 @@
 
 <img src="https://cdn.statically.io/gh/atom-tr/atom-tr/master/statics/darkrai.webp" alt="pokemon" width="150" align="right">
 
-- 🏢 I am currently working as a **System Administrator** at [NetNam Corporation](https://netnam.com/)
+- 🏢 I am currently working as a Freelancer Developer
 - 🎓 Studies for Network Engineering at [Posts and Telecommunications Institute of Technology](https://ptithcm.edu.vn/)
 - 🤔 Exploring new technologies and developing programming insights.
 - 🏡'Lives in **Ho Chi Minh** city
