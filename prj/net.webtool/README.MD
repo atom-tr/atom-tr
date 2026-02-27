@@ -7,7 +7,7 @@ This web-based tool offers a user-friendly interface designed specifically for t
 - Customer Bandwidth Management
 - Device Interface Configuration Management
 
-![Home Page](https://cdn.statically.io/gh/atom-tr/atom-tr/src/prj/net.webtool/home.webp)
+![Home Page](https://cdn.statically.io/gh/atom-tr/atom-tr@src/prj/net.webtool/home.webp)
 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -22,17 +22,17 @@ This web-based tool offers a user-friendly interface designed specifically for t
 
 - **Search Bandwidth Information**: Allows users to query and view detailed information about customer bandwidth.
 
-![Filter List](https://cdn.statically.io/gh/atom-tr/atom-tr/src/prj/net.webtool/list.webp)
+![Filter List](https://cdn.statically.io/gh/atom-tr/atom-tr@src/prj/net.webtool/list.webp)
 
 - **Adjust Bandwidth**: Provides tools to increase or decrease customer bandwidth as needed.
 - **Schedule Bandwidth Changes**: Supports automated scheduling for bandwidth adjustments, enabling efficient management of change requests over time.
 
-![Request List](https://cdn.statically.io/gh/atom-tr/atom-tr/src/prj/net.webtool/requests.webp)
+![Request List](https://cdn.statically.io/gh/atom-tr/atom-tr@src/prj/net.webtool/requests.webp)
 
-![Request change modal](https://cdn.statically.io/gh/atom-tr/atom-tr/src/prj/net.webtool/modal.webp)
+![Request change modal](https://cdn.statically.io/gh/atom-tr/atom-tr@src/prj/net.webtool/modal.webp)
 
 ## Device Interface Configuration Management
 
 - **Search Configuration Information**: Enables users to look up configuration details for device interfaces, facilitating easy management and verification of device settings.
 
-![Device Info](https://cdn.statically.io/gh/atom-tr/atom-tr/src/prj/net.webtool/dvi.webp)
+![Device Info](https://cdn.statically.io/gh/atom-tr/atom-tr@src/prj/net.webtool/dvi.webp)
