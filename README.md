@@ -16,7 +16,7 @@
 
 ## About Me
 
-<img src="https://cdn.statically.io/gh/atom-tr/atom-tr/master/statics/darkrai.webp" alt="pokemon" width="150" align="right">
+<img src="https://cdn.statically.io/gh/atom-tr/atom-tr@master/statics/darkrai.webp" alt="pokemon" width="150" align="right">
 
 - 🏢 I am currently working as a Freelancer Developer
 - 🎓 Studies for Network Engineering at [Posts and Telecommunications Institute of Technology](https://ptithcm.edu.vn/)
@@ -49,7 +49,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### <img src="https://cdn.statically.io/gh/atom-tr/atom-tr/master/statics/Developer.gif" alt="" width="25px"> Some of the technologies I have worked with
+### <img src="https://cdn.statically.io/gh/atom-tr/atom-tr@master/statics/Developer.gif" alt="" width="25px"> Some of the technologies I have worked with
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
