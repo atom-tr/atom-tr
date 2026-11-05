@@ -61,6 +61,8 @@
 ## Activities
 
 <!--START_SECTION:activities-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-215%20hrs%2033%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
